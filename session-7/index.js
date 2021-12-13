@@ -25,6 +25,9 @@ names.sort().reverse();
 
 console.log(names);
 
+const numbers = ['5', '325', '67', '100000', '150']
+numbers.sort();
+console.log(numbers);
 
 
 
