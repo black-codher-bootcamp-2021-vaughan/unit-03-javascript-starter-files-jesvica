@@ -19,8 +19,11 @@ console.log(animals);
 
 
 // ****************************************************TASK 2****************************************************
+const names = ['jessica', 'bethany', 'madison', 'sarah', 'victoria', 'shannon', 'erin', 'nicole', 'kimberley', 'lucy']
 
+names.sort().reverse();
 
+console.log(names);
 
 
 
