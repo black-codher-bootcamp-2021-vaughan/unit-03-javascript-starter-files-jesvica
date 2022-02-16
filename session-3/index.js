@@ -11,11 +11,3 @@ function conversation() {
 
 sayHey();
 conversation();
-
-function futureAge (name, age) {
-    const ageInFiveYears = age + 5;
-    return "Hi " + name + "! You will be " + age + " in 5 years."
-}
-
-console.log(futureAge(Bob, 21);
-futureAge();
