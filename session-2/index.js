@@ -5,6 +5,6 @@ console.log('hello world again')
 console.log('hello jessica')
 console.log(document.querySelector('#description').innerHTML)
 console.log(document.querySelectorAll('.about').innerHTML)
-console.log(document.querySelectorAll('about').innerHTML)
+console.log(document.querySelectorAll('.about').innerHTML)
 console.log(document.querySelectorAll('.about'))
 
