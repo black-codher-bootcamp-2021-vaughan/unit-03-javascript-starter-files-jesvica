@@ -11,3 +11,14 @@ function conversation() {
 
 sayHey();
 conversation();
+
+
+// Task 3
+
+function futureAge(name, age) {
+    const ageIn5Years = age + 5;
+    return "Hi " + name + ", you will be " + ageIn5Years + " in 5 years!"
+}
+
+console.log(futureAge('Anna', 25));
+futureAge();
