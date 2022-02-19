@@ -60,21 +60,14 @@ const division = x * y / x;
 console.log("Division: x + y / x = " + division);
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 // ****************************************************TASK 3****************************************************
 
+const legalDrivingAge = 17;
+const age = 25;
+
+const oldEnoughDrive = legalDrivingAge < age;
+
+console.log('Am I old enough to drive? ' + oldEnoughDrive);
 
 
 
