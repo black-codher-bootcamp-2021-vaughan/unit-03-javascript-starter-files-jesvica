@@ -34,30 +34,30 @@ function biography(person) {
 console.log(biography(personA));
 console.log(biography(personB));
 console.log(biography(personC));
-console.log(biography(personD));
+console.log(biography(personD))
 
 
 // ****************************************************TASK 2 - MATHS OPERATORS****************************************************
 // ***Uncomment the code below to begin the task***
 
-// const x = 6;
-// const y = 4;
+const x = 6;
+const y = 4;
 
-// const addition = x + y;
+const addition = x + x + y;
 
-// console.log("Addition: x + y " + addition);
+console.log("Addition: x + x + y = " + addition);
 
-// const subtraction = x - y;
+const subtraction = x - y;
 
-// console.log("Subtraction: x - y " + subtraction);
+console.log("Subtraction: x - y = " + subtraction);
 
-// const multiplication = x * y;
+const multiplication = x * x;
 
-// console.log("multiplication: x * y " + multiplication);
+console.log("multiplication: x * x = " + multiplication);
 
-// const division = x * y;
+const division = x * y / x;
 
-// console.log("Division: x + y " + division);
+console.log("Division: x + y / x = " + division);
 
 
 
