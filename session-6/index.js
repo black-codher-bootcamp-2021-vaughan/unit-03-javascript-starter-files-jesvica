@@ -8,20 +8,8 @@ let counter = 5;
 while (counter <= 10) {
     const randomNumber = Math.round(Math.random() * 10);
     console.log(randomNumber);
+    counter++;
 }
-
-console.log(counter);
-
-
-
-
-
-
-
-
-
-
-
 
 
 
